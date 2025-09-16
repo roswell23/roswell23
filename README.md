@@ -57,11 +57,10 @@
 ---
 
 ### 🎵 Coding Playlist
- <p align="center">Check out my coding playlist on Spotify!</p>
- <a href="### 🎵 Coding Playlist
-[![My Playlist](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21abcdefg1234567890)
-"></a>
-  
+ <p align="center">🎵 Coding Playlist
+  <a href="(https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/roswellcruz12)"></a>
+ </p>
+
 
 ---
 

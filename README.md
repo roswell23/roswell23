@@ -45,7 +45,7 @@
 
 ### 🎵 Vibes While Coding
 <p align="center">
-  <img src="[https://play.google.com/store/apps/details?id=com.spotify.music](https://open.spotify.com/user/roswellcruz12?si=adef98c9b0454524)" />
+  <img src="https://open.spotify.com/user/roswellcruz12" />
 </p>
 
 ---

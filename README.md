@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Kapeniulit – Coffee Shop Website**  
 - 🌱 I’m learning **HTML, CSS, JavaScript, Bootstrap**  
 - 👯 Looking to collaborate on **Frontend Projects & UI Designs**  
-- 🎯 2025 Goals: Build more **responsive websites** & learn **React**  
+- 🎯 2025 Goals: Build more **responsive websites** 
 - ⚡ Fun fact: I love coding at night 🌙 with a cup of coffee ☕
 
 ---

@@ -15,7 +15,7 @@
       <p align="center">- 👯 Looking to collaborate on **Frontend Projects & UI Designs**</p>
     </div>
     <div class="col">
-      <p align="center">- 🎯 2025 Goals: Build more **responsive websites** & learn **React**</p>
+      <p align="center">- 🎯 2025 Goals: Build more **responsive websites** & learn **More Project**</p>
   </div>
     <div class="col">
       <p align="center">- ⚡ Fun fact: I love coding at night 🌙 with a cup of coffee ☕</p>

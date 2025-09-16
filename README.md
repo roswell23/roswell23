@@ -56,10 +56,13 @@
 
 ---
 
-### 🎵 Coding Playlist
- <p align="center">🎵 Coding Playlist
-  <a href="(https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/roswellcruz12)"></a>
- </p>
+### 🎵 My Coding Playlist
+<p align="center">
+  <a href="https://open.spotify.com/user/roswellcruz12">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+</p>
+
 
 
 ---

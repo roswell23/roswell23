@@ -1,7 +1,5 @@
-
----
-  <h1 align="center">👋 Hi, I'm Roswell Cruz</h1>
-  <p align="center">🌱 Frontend Developer in Progress | ☕ Coffee Lover | 💻 Open Source Enthusiast</p>
+<h1 align="center">👋 Hi, I'm Roswell Cruz</h1>
+<p align="center">🌱 Frontend Developer in Progress | ☕ Coffee Lover | 💻 Open Source Enthusiast</p>
 
 ---
 <div class="container text-center">
@@ -18,10 +16,11 @@
     </div>
     <div class="col">
       <p align="center">- 🎯 2025 Goals: Build more **responsive websites** & learn **More Project**</p>
-  </div>
+    </div>
     <div class="col">
       <p align="center">- ⚡ Fun fact: I love coding at night 🌙 with a cup of coffee ☕</p>
     </div>
+  </div>
 </div>
 ---
 <h2 align="center">🛠️ Technologies & Tools</h2>

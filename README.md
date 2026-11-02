@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-2ea44f?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-React%20%26%20jQuery-61DAFB?style=flat-square&logo=react&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Building%20with-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="Building with React" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=flat-square" alt="Open to collaboration" />
 </p>
 
@@ -22,11 +22,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a frontend developer who enjoys turning ideas into clean, responsive websites. I'm currently leveling up with **React** and **jQuery** through real projects, with a focus on maintainable code and thoughtful UI design.
+I'm a frontend developer who enjoys turning ideas into clean, responsive, and interactive web apps. I build with **React** and **JavaScript**, and I'm growing into full-stack work, with a focus on maintainable code and thoughtful UI design.
 
-- 🚀 Building **Kapeniulit**, a coffee shop website
-- 📚 Learning **React** and **jQuery**
-- 🌱 Strengthening my HTML, CSS, JavaScript, and Bootstrap fundamentals
+- 🚀 Currently building **ShopFlow**
+- ⚛️ Building with **React**: interactive UIs, live search, cart flows
+- 🌱 Growing into full-stack: authentication, role-based access, analytics
 - 🤝 Open to collaborating on frontend and UI/UX projects
 - 🎯 Aiming to ship responsive, production-ready websites
 
@@ -40,8 +40,8 @@ I'm a frontend developer who enjoys turning ideas into clean, responsive website
 
 **Frameworks & Libraries**
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 **Tools**
@@ -54,16 +54,10 @@ I'm a frontend developer who enjoys turning ideas into clean, responsive website
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [**Kapeniulit**](https://github.com/roswell23/kapeniulit) | Coffee shop website with a warm, upscale visual theme *(in progress)* | HTML, CSS, Bootstrap |
-| [**Portfoliio**](https://github.com/roswell23/Portfoliio) | My personal portfolio showcasing my work and skills | HTML, CSS |
-| [**Todo**](https://github.com/roswell23/Todo) | A simple, responsive to-do app: add, search, filter, and manage tasks | HTML, CSS, jQuery |
-| [**Group Project**](https://github.com/roswell23/CruzSalameraPoncardasBasaSampiano) | Collaborative team project | JavaScript |
-
-## 🌱 Currently Working On
-
-- Finishing the Kapeniulit website
-- Rebuilding small projects with **React**
-- Adding more interactivity to my projects with **jQuery**
+| [**ShopFlow**](https://github.com/roswell23/shopflow) | My latest project, currently in active development | JavaScript |
+| [**TodoFlow**](https://github.com/roswell23/TodoFlow) | Modern full-stack task management platform with secure authentication, productivity analytics, RBAC, and an admin command center | JavaScript |
+| [**Kapenirossv2**](https://github.com/roswell23/Kapenirossv2) | React-based coffee shop website with an interactive menu, live search, cart drawer, and responsive dark-themed UI | React, JavaScript |
+| [**Portfolio**](https://github.com/roswell23/Portfolio) | My personal portfolio showcasing my work and skills | JavaScript |
 
 ## 📊 GitHub Stats
 

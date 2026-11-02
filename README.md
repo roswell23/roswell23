@@ -26,7 +26,7 @@ I'm a frontend developer who enjoys turning ideas into clean, responsive, and in
 
 - 🚀 Currently building **ShopFlow**
 - ⚛️ Building with **React**: interactive UIs, live search, cart flows
-- 🌱 Growing into full-stack: authentication, role-based access, analytics
+- 🌱 Growing into full-stack with the **PERN stack** (PostgreSQL, Express, React, Node.js): authentication, role-based access, analytics
 - 🤝 Open to collaborating on frontend and UI/UX projects
 - 🎯 Aiming to ship responsive, production-ready websites
 
@@ -44,6 +44,13 @@ I'm a frontend developer who enjoys turning ideas into clean, responsive, and in
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+**Backend & Database (PERN Stack)**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,7 +62,7 @@ I'm a frontend developer who enjoys turning ideas into clean, responsive, and in
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | [**ShopFlow**](https://github.com/roswell23/shopflow) | My latest project, currently in active development | JavaScript |
-| [**TodoFlow**](https://github.com/roswell23/TodoFlow) | Modern full-stack task management platform with secure authentication, productivity analytics, RBAC, and an admin command center | JavaScript |
+| [**TodoFlow**](https://github.com/roswell23/TodoFlow) | Modern full-stack task management platform with secure authentication, productivity analytics, RBAC, and an admin command center | PERN (PostgreSQL, Express, React, Node.js) |
 | [**Kapenirossv2**](https://github.com/roswell23/Kapenirossv2) | React-based coffee shop website with an interactive menu, live search, cart drawer, and responsive dark-themed UI | React, JavaScript |
 | [**Portfolio**](https://github.com/roswell23/Portfolio) | My personal portfolio showcasing my work and skills | JavaScript |
 

@@ -59,14 +59,13 @@ I'm a frontend developer who enjoys turning ideas into clean, responsive, and in
 | [**Kapenirossv2**](https://github.com/roswell23/Kapenirossv2) | React-based coffee shop website with an interactive menu, live search, cart drawer, and responsive dark-themed UI | React, JavaScript |
 | [**Portfolio**](https://github.com/roswell23/Portfolio) | My personal portfolio showcasing my work and skills | JavaScript |
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=roswell23&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roswell23&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roswell23&theme=default&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/roswell23?tab=followers"><img src="https://img.shields.io/github/followers/roswell23?style=for-the-badge&logo=github&label=Followers" alt="Followers" /></a>
+<a href="https://github.com/roswell23?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-8-2ea44f?style=for-the-badge&logo=github" alt="Public repos" /></a>
+<a href="https://github.com/roswell23/TodoFlow"><img src="https://img.shields.io/github/last-commit/roswell23/TodoFlow?style=for-the-badge&label=TodoFlow%20Last%20Commit" alt="TodoFlow last commit" /></a>
 
 </div>
 
